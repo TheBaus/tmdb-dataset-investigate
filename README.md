@@ -1,7 +1,7 @@
-# tmdb-dataset-investigate
+# Investigate and analyse "The Movie Database (TMDB)"
 This was a project for a data analyst course to investigate and analyse a TMDB Dataset and glean insights as to what movies etc are popular.
 
-# Usage
+## Usage
 
 In order to fully use the code, you will need to have Jupyter Notebook running on your system with Python3.6 configured.
 
